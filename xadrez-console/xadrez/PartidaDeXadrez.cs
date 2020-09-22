@@ -2,7 +2,7 @@
 using tabuleiro;
 using xadrez;
 
-namespace xxadrez
+namespace xadrez
 {
     class PartidaDeXadrez
     {
