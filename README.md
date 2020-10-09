@@ -1,3 +1,7 @@
+<h1 align="center" >
+    <img width="400px" src="https://raw.githubusercontent.com/leogottardi/xadrez-console/master/.github/imagem-xadrez.png">
+</h1>
+
 # Indice
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
