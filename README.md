@@ -27,7 +27,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias :
     $ git clone https://github.com/leogottardi/xadrez-console
 
     #Entrar no diretório
-    $ git cd xadrez-console
+    $ cd xadrez-console
 
     
 ```
